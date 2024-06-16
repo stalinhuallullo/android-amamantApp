@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tecnica_contenido_1">Mamita, el mentón del bebé que toca el pecho de la madre con la boca abierta debe abarcar toda la areola, eso hace que el bebé coja bien al pecho y al momento de dar de lactar no causa dolor a la madre.</string>
+    <string name="tecnica_contenido_2">Mamita, En esta posición se coloca al bebé pegado a la madre y se sujeta con la mano su espalda, apoyando su cabeza con el antebrazo. La otra mano dirige el pecho de la madre hacia la boca del bebé acercándolo con suavidad para el momento de la succión.</string>
+    <string name="tecnica_contenido_3">Mamita, usted se coloca al lado del bebé con su cuerpo enfrentado y pegado. Cuando el bebé abre la boca la madre lo acerca a su pecho empujándolo por la espalda con suavidad para que facilite el agarre del seno y se de una correcta lactancia. </string>
+    <string name="tecnica_contenido_4">Mamita, usted se coloca boca arriba y el bebé boca abajo en contacto piel con piel con su cuerpo. La madre ayuda a llegar al bebé al pecho con la ayuda de los brazos.</string>
+    <string name="tecnica_contenido_5">Mamita, en esta posición se sitúa al bebé por debajo de la axila, con las piernitas hacia atrás y la cabeza al nivel del pecho, el pezón a la altura de la nariz del bebé. En esta forma es importante sujetar el cuello del bebé para facilitar el agarre del pezón.</string>
+
+    <string name="tecnica_titulo_1">Agarre de Pecho</string>
+    <string name="tecnica_titulo_2">Posición Sentada o Posición de Cuna</string>
+    <string name="tecnica_titulo_3">Posición Acostada</string>
+    <string name="tecnica_titulo_4">Posición Crianza Biológica</string>
+    <string name="tecnica_titulo_5">Posición Sandía</string>
+
+
+
+
+
+    <string name="mito_pregunta_1">¿Se debe limitar los tiempos de cada toma aunque el bebé tenga hambre?</string>
+    <string name="mito_pregunta_2">¿Se debe preparar el pezón antes de dar de lactar?</string>
+    <string name="mito_pregunta_3">¿Los pezones invertidos impiden la lactancia?</string>
+    <string name="mito_pregunta_4">¿Si noto el pecho menos lleno, no produzco suficiente leche?</string>
+    <string name="mito_pregunta_5">¿Debo colocar los dedos en forma de “tijera”, al momento de amamantar al bebé para ayudar en la lactancia?</string>
+    <string name="mito_pregunta_6">¿Las mujeres con pecho pequeño no pueden amamantar?</string>
+    <string name="mito_pregunta_7">¿Sólo algunas mujeres producen leche en cantidad?</string>
+    <string name="mito_pregunta_8">¿Tomar antibióticos o estar resfriado es perjudicial para la lactancia?</string>
+    <string name="mito_pregunta_9">¿Beber leche produce más leche?</string>
+    <string name="mito_pregunta_10">¿A los seis meses se debe retirar la lactancia materna?</string>
+
+
+    <string name="mito_contenido_1">Mamita, amamantar frecuentemente a su bebé favorece su producción de leche durante las primeras semanas. Usted deberá amamantar a su bebé "a demanda" (cuando tenga hambre), lo que suele ser cada hora y media a tres horas. Algunos maman cada 90 minutos, mientras que otros pueden aguantar dos o tres horas entre toma consecutiva. Los recién nacidos no deben pasar más de unas cuatro horas sin alimentarse, ni siquiera por la noche.</string>
+    <string name="mito_contenido_2">Mamita, uno de los "consejos" erróneos más habituales que reciben las futuras mamis como ustedes, es que la mujer debe masajear sus pezones una vez que inicie la lactancia. Los especialistas advierten de que alertar a la madre cuando existe una dificultad para amamantar puede generar angustia y pérdida de confianza en su capacidad de lactar, además de incitar de cierta manera al fracaso antes de empezar a amamantar a su bebé por primera vez.</string>
+    <string name="mito_contenido_3">Mamita, todos los pechos son aptos para amamantar a un bebé, aun teniendo los pezones planos o invertidos. Muchas mujeres renuncian a la lactancia materna pues creen que no podrán dar pecho a sus bebés, pero con constancia y algunos consejos a poner en práctica podrás alimentarlo sin problema.</string>
+    <string name="mito_contenido_4">Mamita, una de las principales preocupaciones de ustedes que amamantan es que desconocen cuánta leche tienen y si su hijo ha comido lo suficiente. Una de las ventajas de la leche materna es que cuando la "despensa" se termina, esta se rellena rápidamente y está lista para dar de lactar.</string>
+    <string name="mito_contenido_5">Mamita, esta forma sólo hará que el bebé tenga más dificultades al momento de agarrar el pecho con la boca, la manera correcta es colocando la mano en forma de “C”. En cualquiera de las posiciones para amamantar, cuando el bebé está bien alineado debe ser capaz de trazar una línea recta que conecte la oreja, el hombro y la cadera en cualquier lado del cuerpo del bebé.</string>
+    <string name="mito_contenido_6">
+        Mamita, el tamaño de los senos NO importa en la lactancia. La cantidad de leche que se produce, no depende del tamaño, sino de las células productoras y los conductos de leche, que son los mismos en todas las mujeres.
+        \nAdemás, recordemos que la cantidad de leche que recibe un niño va a depender, sobre todo, de sus propias necesidades. Mientras más demanda, más leche habrá.
+    </string>
+    <string name="mito_contenido_7">
+        Mamita, la evidencia científica indica que incluso en madres desnutridas, o mujeres que viven situación de pobreza y precariedad extrema son capaces de producir leche en cantidad.
+        \nEs cierto que pueden existir variaciones individuales que tienen relación con la dieta, pero el organismo de la mujer usa el mismo patrón para producir la leche materna, la que siempre será en cantidad.
+    </string>
+    <string name="mito_contenido_8">Mamita, todo medicamento lo debe recetar un profesional. Respetando este principio, casi todos los medicamentos se pueden tomar durante la lactancia. Muchas veces en los folletos de los medicamentos juntan las precauciones del medicamento en el embarazo con la lactancia, o usan expresiones que asustan. No obstante, muchas veces la madre desteta sin ninguna necesidad o deja de tomar el medicamento.</string>
+    <string name="mito_contenido_9">Mamita, la producción de leche materna es independiente de lo que la madre ingiere a lo largo del día. La producción de leche materna se produce bajo la influencia de dos hormonas: prolactina, responsable de que se sintetice la leche, y oxitocina, encargada de que la leche salga del pecho de la madre. Pero este proceso no comienza en el nacimiento, sino mucho antes. Recuerda que lo importante para producir leche es la succión del bebé.</string>
+    <string name="mito_contenido_10">Mamita, la Organización Mundial de la Salud, recomienda continuar la lactancia materna hasta los 2 años o más, eso sí, no en exclusividad, ya que a partir de los 6 meses el bebé necesita de más aporte calórico y necesidades nutricionales adecuadas. Dicha organización recomienda lactancia exclusiva durante los primeros 180 días de vida del bebé para un niño que ha nacido a término y con un buen peso al nacer.</string>
+
+
+    <string name="siguiente">Siguiente</string>
+    <string name="finalizar">Finalizar</string>
+    <string name="x">X</string>
+    <string name="tecnicas_de_lactancia_materna">Técnicas de lactancia Materna</string>
+    <string name="mitos_de_lactancia_materna">Mitos sobre lactancia Materna</string>
+    <string name="prueba">Mensaje de prueba</string>
+
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+
+
+</resources>
